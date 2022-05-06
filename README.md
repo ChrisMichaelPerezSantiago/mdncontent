@@ -4,6 +4,10 @@
 
 # 📚 Documentation
 
+## `JSON File`
+
+- [x] [CSS properties documentation as JSON file](https://raw.githubusercontent.com/ChrisMichaelPerezSantiago/mdncontent/master/document.json)
+
 ## **:handshake: Contributing**
 
 - Fork it!
