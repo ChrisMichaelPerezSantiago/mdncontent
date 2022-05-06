@@ -44,7 +44,3 @@ _*Chris M. Perez*_
 ---
 
 Copyright ©2022 [mdncontent](https://github.com/ChrisMichaelPerezSantiago/mdncontent).
-
-```
-
-```
