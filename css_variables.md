@@ -1,0 +1,2 @@
+## ✔️ css_variables 
+ ---<br/>title: CSS Custom Properties for Cascading Variables<br/>slug: Web/CSS/CSS_Variables<br/>tags:<br/>  - CSS<br/>  - CSS Variables<br/>  - Guide<br/>  - Overview<br/>  - Reference<br/>spec-urls: https://drafts.csswg.org/css-variables/<br/>---<br/>{{CSSRef}}<br/><br/>**CSS Custom Properties for Cascading Variables** is a [CSS](/en-US/docs/Web/CSS) module that allows for the creation of custom properties that can be used over and over.<br/><br/>## CSS properties<br/><br/>- {{cssxref(--*)}}<br/><br/>## Specifications<br/><br/>{{Specifications}}<br/>
